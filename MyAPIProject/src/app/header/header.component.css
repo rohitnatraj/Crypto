@@ -1,0 +1,14 @@
+#grad1 {
+    height: 60px;
+    background: blueviolet; /* For browsers that do not support gradients */
+    background: linear-gradient(lightblue, violet); /* Standard syntax (must be last) */
+}
+
+/* Style the header */
+.header {
+    
+    text-align: center;
+    color:#888888;
+    font-size:40px;
+    font-weight:bold
+}
